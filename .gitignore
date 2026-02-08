@@ -194,6 +194,20 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
+# Google Ads / OAuth Credentials (NEVER commit these)
+credentials/
+client_secret*.json
+google-ads.yaml
+application_default_credentials.json
+*.credentials.json
+
+# Engine Output (regenerated each run)
+contractkit_optimization_surface.json
+contractkit_optimization_surface.csv
+
+# Meta-optimizer state (contains timestamps, regenerated each cycle)
+meta_state.json
+
 # Cursor
 #  Cursor is an AI-powered code editor. `.cursorignore` specifies files/directories to
 #  exclude from AI features like autocomplete and code analysis. Recommended for sensitive data

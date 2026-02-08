@@ -1,0 +1,34 @@
+# ContractKit Infinity Ads Engine - Dependencies
+# Install: pip install -r requirements.txt
+
+# Core Data
+numpy
+pandas
+scipy
+
+# Machine Learning
+scikit-learn
+xgboost
+lightgbm
+
+# Deep Learning (Attribution Engine)
+torch
+
+# Causal / Structural
+networkx
+ruptures
+
+# Optimization
+# (scipy already covers optimize module)
+
+# Google Ads API
+google-ads
+google-auth
+google-auth-oauthlib
+
+# Visualization & Reporting
+tabulate
+tqdm
+
+# Utilities
+pyyaml
