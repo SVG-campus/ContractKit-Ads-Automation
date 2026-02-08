@@ -204,6 +204,13 @@ application_default_credentials.json
 # Engine Output (regenerated each run)
 contractkit_optimization_surface.json
 contractkit_optimization_surface.csv
+contractkit_live_analysis.json
+contractkit_keyword_analysis.csv
+contractkit_campaign_blueprint.json
+contractkit_blueprint_mutations.json
+optimization_loop_state.json
+mutation_log*.json
+quality_score_history.json
 
 # Meta-optimizer state (contains timestamps, regenerated each cycle)
 meta_state.json

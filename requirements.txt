@@ -32,3 +32,4 @@ tqdm
 
 # Utilities
 pyyaml
+schedule
